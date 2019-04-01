@@ -1,11 +1,9 @@
-package com.nopainanymore.springbootmybatisplus.dao;
+package com.nopainanymore.springbootmybatisplus.common;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.nopainanymore.springbootmybatisplus.entity.User;
 
-import java.io.Serializable;
 import java.util.List;
-import java.util.Optional;
 
 /**
  * @author nopainanymore

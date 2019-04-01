@@ -1,13 +1,12 @@
 package com.nopainanymore.springbootmybatisplus.service.impl;
 
-import com.nopainanymore.springbootmybatisplus.dao.UserMapper;
+import com.nopainanymore.springbootmybatisplus.common.UserMapper;
 import com.nopainanymore.springbootmybatisplus.entity.User;
 import com.nopainanymore.springbootmybatisplus.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Optional;
 
 /**
  * @author nopainanymore
